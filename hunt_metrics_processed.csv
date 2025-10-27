@@ -1,0 +1,21 @@
+timestamp,timestamp_RFC3339,template_id,template_name,subject,campaign_id,campaign_name,sent,delivered,opened,clicked,converted
+1751774400,2025-07-06T04:00:00Z,combined_0,HUNT-EML-0-combined,Combined metrics for day 0,12,[Email] US Direct Quoter Hunt - 6.0.7,4745,4695,1609,49,22
+1751774400,2025-07-06T04:00:00Z,combined_1,HUNT-EML-1-combined,Combined metrics for day 1,12,[Email] US Direct Quoter Hunt - 6.0.7,11364,11241,3685,74,15
+1751774400,2025-07-06T04:00:00Z,combined_2,HUNT-EML-2-combined,Combined metrics for day 2,12,[Email] US Direct Quoter Hunt - 6.0.7,13262,13112,5246,151,14
+1751774400,2025-07-06T04:00:00Z,combined_3,HUNT-EML-3-combined,Combined metrics for day 3,12,[Email] US Direct Quoter Hunt - 6.0.7,13483,13336,4937,148,63
+1751774400,2025-07-06T04:00:00Z,combined_5,HUNT-EML-5-combined,Combined metrics for day 5,12,[Email] US Direct Quoter Hunt - 6.0.7,5663,5599,1932,36,9
+1751774400,2025-07-06T04:00:00Z,combined_6,HUNT-EML-6-combined,Combined metrics for day 6,12,[Email] US Direct Quoter Hunt - 6.0.7,134167,131711,48613,1138,450
+1751774400,2025-07-06T04:00:00Z,combined_8,HUNT-EML-8-combined,Combined metrics for day 8,12,[Email] US Direct Quoter Hunt - 6.0.7,140692,138016,50624,1008,495
+1751774400,2025-07-06T04:00:00Z,combined_11,HUNT-EML-11-combined,Combined metrics for day 11,12,[Email] US Direct Quoter Hunt - 6.0.7,151014,148233,61112,1141,164
+1751774400,2025-07-06T04:00:00Z,combined_12,HUNT-EML-12-combined,Combined metrics for day 12,12,[Email] US Direct Quoter Hunt - 6.0.7,137431,134811,48275,864,234
+1751774400,2025-07-06T04:00:00Z,combined_14,HUNT-EML-14-combined,Combined metrics for day 14,12,[Email] US Direct Quoter Hunt - 6.0.7,135712,133077,47418,1018,610
+1751774400,2025-07-06T04:00:00Z,combined_21,HUNT-EML-21-combined,Combined metrics for day 21,12,[Email] US Direct Quoter Hunt - 6.0.7,134100,131534,45948,870,172
+1751774400,2025-07-06T04:00:00Z,combined_23,HUNT-EML-23-combined,Combined metrics for day 23,12,[Email] US Direct Quoter Hunt - 6.0.7,136255,133622,47541,891,223
+1751774400,2025-07-06T04:00:00Z,combined_26,HUNT-EML-26-combined,Combined metrics for day 26,12,[Email] US Direct Quoter Hunt - 6.0.7,135315,132782,50317,2137,425
+1751774400,2025-07-06T04:00:00Z,combined_34,HUNT-EML-34-combined,Combined metrics for day 34,12,[Email] US Direct Quoter Hunt - 6.0.7,133087,130661,46641,1238,206
+1751774400,2025-07-06T04:00:00Z,combined_38,HUNT-EML-38-combined,Combined metrics for day 38,12,[Email] US Direct Quoter Hunt - 6.0.7,128221,125801,43081,673,150
+1751774400,2025-07-06T04:00:00Z,combined_42,HUNT-EML-42-combined,Combined metrics for day 42,12,[Email] US Direct Quoter Hunt - 6.0.7,126832,124624,43200,819,201
+1751774400,2025-07-06T04:00:00Z,combined_48,HUNT-EML-48-combined,Combined metrics for day 48,12,[Email] US Direct Quoter Hunt - 6.0.7,134422,132324,45403,766,142
+1751774400,2025-07-06T04:00:00Z,combined_53,HUNT-EML-53-combined,Combined metrics for day 53,12,[Email] US Direct Quoter Hunt - 6.0.7,132525,130588,43518,588,93
+1751774400,2025-07-06T04:00:00Z,combined_56,HUNT-EML-56-combined,Combined metrics for day 56,12,[Email] US Direct Quoter Hunt - 6.0.7,131918,130038,43750,697,51
+1751774400,2025-07-06T04:00:00Z,combined_58,HUNT-EML-58-combined,Combined metrics for day 58,12,[Email] US Direct Quoter Hunt - 6.0.7,130776,128885,42789,659,155

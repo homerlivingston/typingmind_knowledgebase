@@ -1,0 +1,20 @@
+﻿When,Logic,Email,Subject Line
+Day 0,Sends on an order-completed event,Picture,Registered yet? Don't forget!
+Day 1,Sends if customer has opted into Wellness,Picture,Harness the Power of Preventive Care
+Day 2,"All Customers (same footer, just couldn't fit it in the screenshot",Picture,Have you chosen a vet yet? 
+Day 3,Only Takeover provision customers,Picture,Important: Steps to Keep Coverage for Timi's Prior Conditions
+Day 4,All Customers,Picture,Download the Spot app today
+Day 6,All Customers,Picture,Registered yet? Don't forget!
+Day 7,All Customers,Picture,Simplify Coverage with Spot's New Help Center!
+Day 8,Only Wellness Customers,Picture,Keep Your Pet Healthy With Preventive Care
+Day 9,All Customers,Picture,Your pet is about to go viral
+Day 15,Sends once policy is active,Picture,Learn How to Submit Claims
+Day 18,All Customers,Picture,Understanding Your Pet Insurance
+Day 21,All customers,Picture,Your smart choice means a lot to [Pet Name]
+Day 30,Only Platinum Wellness Customers,Picture,Thinking about spaying or neutering? 
+Day 45,Wellness customers ($ value dependent on level of wellness),Picture,[Pet Names]'s secret to a great sm ile
+Day 61,Wellness customers  ,Picture,There's a faster way to get reimbursed
+Day 62,Platinum Customers,Picture,How to fly with [Pet Name]
+Day 86,Wellness Customers,Picture,Never miss a claim reimbursement
+Month 3-6,3-6 month customers,Picture,New toys for your pet? 
+,,,

@@ -1,0 +1,31 @@
+experiment,status,metric,effect_pct_signed,significance,outcome,lift_raw,results_snippet
+Email Blast (PERKS_BLAST),Complete,cancellation_rate,-11.0,Significant,Win,"Statistically significant 11% decrease in churn for perk blast group, repull on 1/6/2025 found still significant 2.94% reduction in cancellations. NOTE: Email Blast = PERKS_BLAST in current system. Current blasts have no control groups since everyone receives them.","* Control Group: 19,360, Total Cancels: 860, Cancel Rate: 4.44%
+* Test Group: 19,134, Total Cancels: 759, Cancel Rate: 3.97%"
+Golden Day 12,Complete,cancellation_rate,5.4,Not significant,Inconclusive,"Not significant, 5.4% improvement in cancel rate. HISTORICAL DATA: Golden Day 12 showed 11% churn reduction at 3 months, 7% at 6 months, 2.9% at 11 months. Replaced by PERKS_BLAST strategy.","* Control Group: 8047, Total Cancels: 802, Cancel Rate: 9.97%
+* Test Group: 7,903, Total Cancels: 745, Cancel rate: 9.43%"
+March Exclusive Perk in QF,Complete,qtp,5.3,Unknown,Likely Win,"If we assume dog and cat owners are equally swayed by perks, the implied lift is 5.3%",Significant 4.0 QTP lift for 77% of test-state quoters
+Social Influencer,Complete,qtp,-26.0,Significant,Win,"  * 26% lower CPL
+  * 38% lower CPP
+  * UTQ:  +16%
+  * QTP: +34%
+  * Clicks: +126%
+  * Spend: +102%","* Control Group:
+  * CPL: $27.61
+  * CPP: $496
+  * UTQ: 11.82%
+  * QTP: 5%
+  * Clicks: 2,859
+  * Total spend: $9,020
+* Test Group:
+  * CPL: $20.48 
+  * CPP: $308 
+  * UTQ: 13.7%
+  * QTP: 6.7%
+  * clicks: 6,459
+  * Total spend: $18,223"
+Special 6-perk QF (Standard),Complete,unspecified,3.0,Significant,Win,"3% Improvement on exclusive perk, 14% significant improvement on no perk states","Horizontal Cards was the winner across all states and species. 3% Improvement on exclusive perk, 14% significant improvement on no perk states"
+6-perk Core Offering Alignment,Complete,unspecified,,Unknown,Unknown,,Performed worse than standard 6-perk horizontal card
+Lapsed Perks Test,Complete,unspecified,,Unknown,Unknown,,Underperformed the control
+Multi-Cohort Perk Retention Test,Complete,cancellation_rate,8.0,Unknown,Likely Win,,cancel rate dropped for the 3-6 month cohort by 8%
+,,unspecified,,Unknown,Unknown,,
+,,unspecified,,Unknown,Unknown,,

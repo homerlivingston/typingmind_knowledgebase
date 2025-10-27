@@ -1,0 +1,103 @@
+Name,Status,Purpose,Hypothesis,Setup,Control,Variant(s),Link to Creative(s),Results,Lift,Next Steps/Further Research
+Email Blast,Complete,Determine if Special Perks affect retention when bundled and provided to a Spot Customer,,Email blast to customers who enrolled between November & December and who were still active at time of blast,Received an email without Perks,Recieved an email notifying them of Spot perks (multi-perk email),Screenshot 2024-04-19 at 3.17.18 PM.png,"* Control Group: 19,360, Total Cancels: 860, Cancel Rate: 4.44%
+* Test Group: 19,134, Total Cancels: 759, Cancel Rate: 3.97%","Statistically significant 11% decrease in churn for perk blast group, repull on 1/6/2025 found still significant 2.94% reduction in cancellations",
+Golden Day 12,Complete,Determine if Special Perks affect retention when bundled or isolated and provided to a Spot customer.,,"Sample of people who purchased over a 2 week period, given either normal Golden Journey 12-day email or one with perks",Received normal Day 12 Golden Journey Email,"Received Day 12 email with perks, either multi-perk or single Koala perk","Screenshot 2024-04-19 at 3.17.18 PM.png,Screenshot 2024-04-19 at 12.26.28 PM (1).png","* Control Group: 8047, Total Cancels: 802, Cancel Rate: 9.97%
+* Test Group: 7,903, Total Cancels: 745, Cancel rate: 9.43%","Not significant, 5.4% improvement in cancel rate",
+March Exclusive Perk in QF,Complete,Determine if Exclusive Perks affect retention and acquisition when isolated and provided to a Spot customer.,,"Dog owners in 4 test states (NJ, IN, AZ, CA) saw exclusive Simparica offer","All cat owners, and dog owners not in test states",Dog owners in test tests,,Significant 4.0 QTP lift for 77% of test-state quoters,"If we assume dog and cat owners are equally swayed by perks, the implied lift is 5.3%",
+Social Influencer,Complete,To determine whether having an influencer plug spot perks improves any key metrics ,,"A sponsored TikTok influencer post w/o perks at first, and then a sponsored post w/ perks a month later",Users from 3/11-4/10,Users from 4/11-5/10,https://www.instagram.com/reel/C5bXLgJpKAw/?utm_source=ig_embed&ig_rid=172bde5c-5c1e-4958-bcdc-a7580c6dd87chttps://www.tiktok.com/@waltergeoffrey/video/7290620030847405355?embed_source=121374463%2C121439635%2C121433650%2C121404359%2C121351166%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_card_play&refer=embed&referer_url=cdn.iframe.ly%2Ft79eKas%3Fv%3D1%26app%3D1&referer_video_id=7344096662803139886,"* Control Group:
+  * CPL: $27.61
+  * CPP: $496
+  * UTQ: 11.82%
+  * QTP: 5%
+  * Clicks: 2,859
+  * Total spend: $9,020
+* Test Group:
+  * CPL: $20.48 
+  * CPP: $308 
+  * UTQ: 13.7%
+  * QTP: 6.7%
+  * clicks: 6,459
+  * Total spend: $18,223","  * 26% lower CPL
+  * 38% lower CPP
+  * UTQ:  +16%
+  * QTP: +34%
+  * Clicks: +126%
+  * Spend: +102%",
+Special 6-perk QF (Standard),Complete,To determine the effect of having multiple perks in the QF,"We think that by offering more perks from established brands, QTP will go up due to the perceived added value to the customer","2 different variants, one with 6 special dog perks, and one with 6 special cat perks. 
+
+Dog Perks: Ancestry
+
+* 20$ Off a Pet DNA Kit
+* Learn more about your pet with a test kit brought to you by the DNA experts at Ancestry®
+
+Farmer's Dog
+
+* 60% Off Dog Food from Farmer's Dog
+* Get 60% off your first box of real, fresh food from The Farmer's Dog
+
+Bark
+
+* Free Month of Bark Subscription
+* Subscription of pet toys from Bark Box or Super Chewer
+
+Rover
+
+* $20 Off Pet Sitting
+* Rover is the #1 pet sitting and dog walking app.
+
+Koala
+
+* 45% Off Pet Meds
+* Koala Health offers pet prescriptions to help keep your pet healthy.
+
+DogTV
+
+* 35% Off DogTV Annual Subscription
+* 24/7 channel, designed to alleviate your pup’s stress and anxiety throughout the day.
+
+Cats:
+
+Basepaws
+
+* 20% Off Pet DNA Kit
+* Discover your pet’s genetic blueprint with a Basepaws DNA kit.
+
+Smalls
+
+* 20% Off for the First Three Orders
+* Smalls is made fresh with human grade ingredients and sent straight to you.
+
+Petivity
+
+* 20% Off Microbiome Analysis Kit
+* Petivity Analysis Kits are designed to unlock valuable information about your pet’s health.
+
+Meowtel
+
+* $25 Off Cat Sitting
+* Meowtel is the #1 Cat Sitting app. Book a trusted & local cat sitter.
+
+Petlibro
+
+* 40% Off Petlibro Space Feeder
+* 2-in-1 food storage and smart feeder with vacuum-seal for freshness.
+
+Furbo
+
+* Up to $55 Off Furbo Pet Cam
+* Always be together. See, talk and toss treats to your pet from anywhere.",Single Exclusive Perk on QF,Multiple Special Perks on QF,Casey Schumacher ,"Horizontal Cards was the winner across all states and species. 3% Improvement on exclusive perk, 14% significant improvement on no perk states","3% Improvement on exclusive perk, 14% significant improvement on no perk states",
+6-perk Core Offering Alignment,Complete,"To see whether Perks perform better as a clearly separate entity, or formatted to look more like a core offering of our insurance product",,"Same 6 perk setup as standard test, but this time with the perks designed to look like our “what’s covered” section",Single exclusive perk on QF,6-perk core aligned version,https://www.figma.com/design/SB55PSDxI9kxyOJIOorafo/Spot-Perks-%2B-Core-Insurance-Offering?node-id=8103-49029&t=PoHa4M4QcLMuJPXY-11,Performed worse than standard 6-perk horizontal card,,
+Lapsed Perks Test,Complete,To test whether putting perks in the lapsed journey can decrease the amount of CX due to lapses we have,"If we explicitly call attention to the perks provided by Spot, then more people will feel the urgency to re-up their payment info","Push 2 different perks creatives to 33% of lapsed journeys, respectively",Normal lapsed journey,"1. All emails in lapsed journey have a perks creative in them
+2. All emails have perks creative, but one of the first emails contains copy such as: “Renew your payment info and retain access to exclusive discount codes included with your plan!”",4-min.png,Underperformed the control,,New Creative? 
+Multi-Cohort Perk Retention Test,Complete,To further investigate the effect perks have on retention rate,"If we push perks to a sample of our entire book, then we will be able to see whether time has an effect on perk-induced retention","Push a multi perk email to 8 different cohorts:
+
+* 30 Days
+* 90 Days
+* 6 months
+* 9 months
+* 1 year
+* 18 months
+* 2 years
+* >2 years",80% of book stays in normal golden journey,20% of each cohort to receive perks email,,cancel rate dropped for the 3-6 month cohort by 8%,,
+,,,,,,,,,,
+,,,,,,,,,,
